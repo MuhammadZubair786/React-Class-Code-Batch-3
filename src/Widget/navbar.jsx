@@ -15,6 +15,9 @@ function NavbarComp() {
                         <Nav.Link href="#">
                             <Link to={"/about"}>About</Link>
                         </Nav.Link>
+                        <Nav.Link href="#">
+                            <Link to={"/contact"}>Contact</Link>
+                        </Nav.Link>
                         <Nav.Link href="#pricing">Pricing</Nav.Link>
                     </Nav>
                 </Container>
